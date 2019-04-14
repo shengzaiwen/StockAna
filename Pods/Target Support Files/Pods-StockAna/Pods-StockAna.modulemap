@@ -1,0 +1,6 @@
+framework module Pods_StockAna {
+  umbrella header "Pods-StockAna-umbrella.h"
+
+  export *
+  module * { export * }
+}
